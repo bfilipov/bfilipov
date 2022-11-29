@@ -1,9 +1,7 @@
 | **Personal information**||
 | -------------: |:-------------|
 | Name      | Bogomil Radoslavov Filipov |
-| Telephone      | 0895 266 669      |
-| E-mail | filipov.bogomil@gmail.com      |
-| LinkedIn | [linkedin.com/bfilipov](https://www.linkedin.com/in/bogomil-filipov-25a04987/) | 
+| LinkedIn | [linkedin.com/bogomil-filipov](https://www.linkedin.com/in/bogomil-filipov/) | 
 |||
 |**Education and training**||
 |Dates|March 2016 – September 2016|
@@ -25,23 +23,35 @@
 |Principal subject|Foreign language profile (English and French)|
 |||
 |**Work experience**||
-|Dates|April 2019 – present|
+|Dates|Jan 2022 – Present|
+|Name of employer|Ocado Technology|
+|Type of business|Software development| 
+|Position held|Python Software Engineer|
+|Main activities and responsibilities|Productionizing machine learning algorithms in microservice environment|
+|Technologies used|Python, AWS|
+|||
+|Dates|November 2018 – Present|
+|Name of employer|AiSolvers|
+|Type of business|Data Science & AI| 
+|Position held|Ml Engineer, Co-founder|
+|Main activities and responsibilities|Software Development, Data Analysis, Modeling|
+|||
+|Dates|Mar 2021 – Jan 2022|
+|Name of employer|Strypes|
+|Type of business|Software development| 
+|Position held|Python Developer|
+|Main activities and responsibilities|Implementation, testing, and integration of customer requirements|
+|Technologies used|Python, C, Bash|
+|||
+|Dates|April 2019 – Mar 2021|
 |Name of employer|Browswave JSC|
-|Address of employer|135A Tsarigradsko Shosse Blvd, 1784, Sofia|
 |Type of business|Business Intelligence| 
 |Position held|Python Developer|
 |Main activities and responsibilities|Web crawling, Data processing, Software development|
 |Technologies used|Python, Ruby, Xpath, ElasticSearch, PostgeSQL|
 |||
-|Dates|November 2018 – present|
-|Name of employer|AiSolvers|
-|Type of business|Data Science & AI| 
-|Position held|Data Scientist, Co-founder|
-|Main activities and responsibilities|Software Development, Data Analysis, Modeling|
-|||
 |Dates|August 2018 – April 2019|
 |Name of employer|GFK Bulgaria|
-|Address of employer|47A Tsarigradsko Shosse Blvd, 2nd floor, 1124, Sofia|
 |Type of business|Business inteligence| 
 |Position held|Software developer|
 |Main activities and responsibilities|Web crawling and automation development, database management|
@@ -49,7 +59,6 @@
 |||
 |Dates|April 2018 – April 2019|
 |Name of employer|GFK Bulgaria|
-|Address of employer|47A Tsarigradsko Shosse Blvd, 2nd floor, 1124, Sofia|
 |Type of business|Market research|
 |Position held|Senior Scripting specialist|
 |Main activities and responsibilities|Web survey programming (backend + frontend, database operations), quality assurance| 
@@ -57,7 +66,6 @@
 |||
 |Dates|August 2016 – April 2018|
 |Name of employer|IPSOS|
-|Address of employer|119 Evropa Boulevard, Sofia|
 |Type of business|Market research| 
 |Position held|Program Technical leader|
 |Main activities and responsibilities|Team management (resource tasks planning, technical support),<br> Project management (workload plannig),<br> Web survey programming <br>(backend + frontend, database operations),<br> quality assurance|
@@ -65,7 +73,6 @@
 |||
 |Dates|March 2015 – April 2018|
 |Name of employer|IPSOS|
-|Address of employer|119 Evropa Boulevard, Sofia|
 |Type of business|Market research| 
 |Position held|Senior Scripting specialist|
 |Main activities and responsibilities|Web survey programming <br>(backend + frontend, database operations),<br> quality assurance|
@@ -73,7 +80,6 @@
 |||
 |Dates|February 2014 – March 2015|
 |Name of employer|Bright Marketing Research|
-|Address of employer|9, Sveti Sedmochislenitzi str, Sofia|
 |Type of business|Market research| 
 |Position held|Questionnaire developer|
 |Main activities and responsibilities|Survey programming (Decipher - Python), quality assurance, fieldwork management, Data processing|
@@ -84,41 +90,6 @@
 |Type of business|Online retail| 
 |Position held|Owner|
 |Main activities and responsibilities|Import and retail|
-|||
-|Dates|May 2012 – September  2012|
-|Name of employer|High Sierra Pools|
-|Address of employer|2704 Columbia Pike, Arlington, Virginia, USA|
-|Type of business|Work and travel USA | 
-|Position held|Lifeguard|
-|Main activities and responsibilities|Ensuring safety on pool area|
-|||
-|Dates|June 2011 - April 2012|
-|Name of employer|Address Real Estate|
-|Address of employer|47A Tsarigradsko shose bul, Sofia 1124|
-|Type of business|Real estate| 
-|Position held|Real estate agent|
-|Main activities and responsibilities|intermediation|
-|||
-|Dates|December 2010 - May 2011|
-|Name of employer|Junior Achievement Bulgaria|
-|Address of employer|1 Hristo belchev str, Sofia 1000|
-|Type of business|Guerilla marketing agency(entrepreneurship training)| 
-|Position held|Marketing manager|
-|Main activities and responsibilities|Copyrighting, PR, guerilla marketing|
-|||
-|Dates|October 2008 - May 2009|
-|Name of employer|Mylo Creative |
-|Address of employer|81 Alexander Stamboliiski str, Sofia 1000|
-|Type of business|Web design, web marketing  | 
-|Position held|WordPress developer|
-|Main activities and responsibilities|Web Design, project managing,<br> account managing, running google adWords and advertising campaigns|
-|||
-|Dates|May 2008 - September 2008|
-|Name of employer|Harris Teeter|
-|Address of employer|601 Currituck Clubhouse Dr, Corolla, NC, USA|
-|Type of business|Work and travel USA| 
-|Position held|Clerk|
-|Main activities and responsibilities|Merchandising|
 |||
 |**Personal skills and competences**||
 |Mother tongue|Bulgarian|
